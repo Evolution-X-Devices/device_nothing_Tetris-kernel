@@ -201,4 +201,3 @@ bus-parity.ko
 last_bus.ko
 haptic.ko
 haptic_sfdc.ko
-nothing_writeback_kmsg.ko
